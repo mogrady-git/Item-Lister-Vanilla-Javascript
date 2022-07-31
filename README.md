@@ -1,5 +1,8 @@
 # Item-Lister-Vanilla-Javascript
 
-Project built from JavaScript-DOM-Crash-Course
-view here:
-- http://projects.michaelogrady.net/training-and-development/JavaScript-DOM-Crash-Course-Part-4/index.html
+> DOM Manipulation in JavaScript
+
+<h1 align="center">
+<img src="images/dom-manipulation-in-js.png"  height="auto" width="100%">
+<img src="images/index.png"  height="auto" width="100%">
+</h1>
